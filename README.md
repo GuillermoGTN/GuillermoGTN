@@ -2,6 +2,15 @@
 
 I'm going to create my 🆕profile here to show it in public.
 
+## 🐻Web technology is really amazing.
+
+I'm an **Electronic Engineer🤖** looking for a **new** role in web developing.
+
+- I've been working in sales and installation of plasma cutting machines🚀☢️ the last 10 years.
+- Currently I'm learnig about programming and Web developing because I want to get a new job in web developing.
+- I've interested in Python, HTML, JAVASCRIPT, CSS, SQL and more...
+- I'm giving small steps in my long way to become a programmer.
+
 <!--
 **GuillermoGTN/GuillermoGTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
